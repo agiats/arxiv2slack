@@ -29,10 +29,6 @@ keywords:
         GK: 1
         goalkeeping: 1
 
-        prompt engineering: 1
-        prompting: 1
-        prompt: 1
-        prompts: 1
         large language model: 1
         LLM: 1
 
@@ -46,6 +42,13 @@ keywords:
         parsing: 1
         cognitive modeling: 1
         language acquisition: 1
+        formal language: 1
+        Chomsky Hierachy: 1
+        Chomsky hierarchy: 1
+        Ryan Cotterell: 1
+        human language processing:
+        information theory: 1
+        reading time: 1
 
 
 # 通知の閾値
